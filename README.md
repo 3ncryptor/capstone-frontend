@@ -1,7 +1,7 @@
 # StudyBuddy — Your Ultimate Study Partner 
 
-Frontend : studybuddy-ky6h.vercel.app/
-Backend: https://study-buddy-v2-backend1.onrender.com/
+Frontend : 
+Backend: 
 
 _Real-time study group collaboration platform built to boost productivity, accountability, and student success._
 
@@ -68,19 +68,3 @@ Built with love using modern tools:
 ![Group Dashboard](/public/groupUI.png)
 
 
-## License
-
-© 2025 Rajdeep. All Rights Reserved.
-
-This project is proprietary and not open-source. No part of the codebase may be copied, distributed, modified, or used without explicit written permission from the author.
-
-For licensing inquiries, contact: [rajdeepsanyal24@gmail.com]
-
----
-
-## Connect with Me
-
-Made with ❤️ by **Rajdeep**  
-🔗 LinkedIn: [www.linkedin.com/in/rajdeepsanyal]
-
-I'm open to collaborations, internships, and feedback. Feel free to reach out!
