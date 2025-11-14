@@ -1,7 +1,7 @@
 # StudyBuddy — Your Ultimate Study Partner 
 
-Frontend : 
-Backend: 
+Frontend: https://capstone-frontend-self.vercel.app/
+Backend: https://capstone-backend-w7xt.onrender.com
 
 _Real-time study group collaboration platform built to boost productivity, accountability, and student success._
 
